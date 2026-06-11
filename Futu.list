@@ -1,9 +1,13 @@
-# 富途及相关行情域名
-DOMAIN-SUFFIX,futu5.com
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuclub.com
-DOMAIN-SUFFIX,futuhk.com
-DOMAIN-SUFFIX,moomoo.com
-# 匹配应用进程
-USER-AGENT,Futu*
-USER-AGENT,Moomoo*
+DOMAIN-SUFFIX,futunn.com,PROXY
+DOMAIN-SUFFIX,futuhk.com,PROXY
+DOMAIN-SUFFIX,futu5.com,PROXY
+DOMAIN-SUFFIX,futuie.com,PROXY
+DOMAIN-SUFFIX,futunn.net,PROXY
+DOMAIN-SUFFIX,futuapi.com,PROXY
+DOMAIN-SUFFIX,futubb.com,PROXY
+DOMAIN-SUFFIX,futucn.com,PROXY
+DOMAIN-SUFFIX,futuweb.com,PROXY
+DOMAIN-SUFFIX,moomoo.com,PROXY
+DOMAIN-SUFFIX,futuholdings.com,PROXY
+DOMAIN-KEYWORD,futunn,PROXY
+DOMAIN-KEYWORD,futuapi,PROXY
