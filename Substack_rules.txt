@@ -1,0 +1,13 @@
+# Substack 个人分流规则集
+payload:
+  # 核心主站、API 与用户认证
+  - DOMAIN-SUFFIX,substack.com
+  - DOMAIN-SUFFIX,substack-custom-domains.com
+  - DOMAIN-SUFFIX,substackapi.com
+
+  # 静态资源与图片 CDN
+  - DOMAIN-SUFFIX,substackcdn.com
+  - DOMAIN-SUFFIX,bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com
+
+  # 第三方依赖与通用关键字兜底
+  - DOMAIN-KEYWORD,substack
